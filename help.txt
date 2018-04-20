@@ -1,0 +1,8 @@
+City:
+	Which city do you want to explore? (1) San-Francisco (2) New York 
+
+Catalog:
+	(1)all, (2) 3 stars, (3) 2 stars, (4)1 stars, (5)Bib Gourmand, (6)The Plate MICHELIN
+
+Restaurant detail:
+	Show detail information for user.
